@@ -1,0 +1,159 @@
+1_Start,1_End,1_Character,1_Ability,2_Start,2_End,2_Character,2_Ability,3_Start,3_End,3_Character,3_Ability,4_Start,4_End,4_Character,4_Ability,5_Start,5_End,5_Character,5_Ability,6_Start,6_End,6_Character,6_Ability
+176,178,Obi-Wan Kenobi,Sense,289,298,Yoda,Sense,433,435,Obi-Wan Kenobi,Sense,1799,1805,Obi-Wan Kenobi,Other,548,550,Luke Skywalker,Telekinesis,1346,1351,Luke Skywalker,Force Choke
+179,180,Obi-Wan Kenobi|Qui-Gon Jinn,Sense,421,425,Obi-Wan Kenobi,Sense,442,444,Obi-Wan Kenobi,Force Leap,2617,2622,Obi-Wan Kenobi,Jedi Mind Trick,552,555,Luke Skywalker,Telekinesis,1384,1387,Luke Skywalker,Jedi Mind Trick
+181,186,Obi-Wan Kenobi,Sense,838,839,Anakin Skywalker,Sense,452,453,Anakin Skywalker,Other,2623,2627,Obi-Wan Kenobi,Jedi Mind Trick,562,578,Luke Skywalker,Telekinesis,1391,1393,Luke Skywalker,Jedi Mind Trick
+244,248,Qui-Gon Jinn,Sense,839,840,Anakin Skywalker|Obi-Wan Kenobi,Sense,454,455,Obi-Wan Kenobi,Force Leap,2628,2632,Obi-Wan Kenobi,Jedi Mind Trick,779,810,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,1395,1396,Luke Skywalker,Jedi Mind Trick
+339,340,Qui-Gon Jinn,Other,852,854,Obi-Wan Kenobi,Force Leap,456,465,Obi-Wan Kenobi|Anakin Skywalker,Other,2633,2636,Obi-Wan Kenobi,Jedi Mind Trick,2827,2837,Luke Skywalker,Sense,1420,1422,Luke Skywalker,Jedi Mind Trick
+340,341,Obi-Wan Kenobi,Other,1314,1317,Obi-Wan Kenobi,Sense,481,482,Anakin Skywalker,Sense,3553,3554,Obi-Wan Kenobi,Sense,3334,3335,Obi-Wan Kenobi|Yoda|Luke Skywalker,Force Spirit|Other,1435,1438,Luke Skywalker,Jedi Mind Trick
+343,344,Qui-Gon Jinn,Other,1368,1371,Obi-Wan Kenobi,Jedi Mind Trick,483,484,Obi-Wan Kenobi,Sense,3587,3588,Luke Skywalker,Other,3341,3342,Yoda,Sense,1478,1479,Luke Skywalker,Telekinesis
+352,353,Obi-Wan Kenobi,Force Push,1372,1376,Obi-Wan Kenobi,Jedi Mind Trick,528,529,Anakin Skywalker|Obi-Wan Kenobi,Other,3641,3642,Luke Skywalker,Other,3345,3348,Obi-Wan Kenobi|Yoda|Luke Skywalker,Force Spirit|Other,1955,1957,Luke Skywalker,Force Leap
+367,368,Qui-Gon Jinn,Other,1414,1415,Obi-Wan Kenobi,Sense,529,533,Obi-Wan Kenobi,Other,3735,3737,Luke Skywalker,Other,3413,3415,Obi-Wan Kenobi|Yoda|Luke Skywalker,Force Spirit|Other,2012,2013,Luke Skywalker,Other
+370,371,Obi-Wan Kenobi,Other,1699,1705,Anakin Skywalker,Telekinesis,586,587,Anakin Skywalker,Force Leap,3878,3880,Luke Skywalker,Sense,3544,3545,Princess Leia Organa,Sense,2018,2019,Luke Skywalker,Other
+390,391,Obi-Wan Kenobi,Other,2160,2167,Other (Younglings),Other,600,601,Anakin Skywalker,Force Leap,5213,5214,Obi-Wan Kenobi,Other,3668,3670,Luke Skywalker,Force Leap,2084,2085,Luke Skywalker,Force Leap
+418,423,Obi-Wan Kenobi|Qui-Gon Jinn,Other,2203,2205,Other (Youngling),Telekinesis,640,642,Anakin Skywalker,Force Leap,5547,5548,Obi-Wan Kenobi,Other,3753,3763,Luke Skywalker,Sense,2099,2100,Luke Skywalker,Other
+423,424,Obi-Wan Kenobi|Qui-Gon Jinn,Speed,2267,2269,Obi-Wan Kenobi,Telekinesis,770,771,Obi-Wan Kenobi,Other,5576,5577,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,3867,3927,Luke Skywalker,Sense,2114,2115,Luke Skywalker,Other
+437,438,Qui-Gon Jinn,Force Leap,3188,3196,Anakin Skywalker,Telekinesis,794,795,Anakin Skywalker,Force Leap,6297,6299,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,4087,4096,Luke Skywalker,Other,2700,2707,Yoda,Other
+439,440,Obi-Wan Kenobi,Force Leap,3204,3211,Anakin Skywalker,Telekinesis,872,873,Anakin Skywalker,Telekinesis,6462,6464,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,4097,4116,Luke Skywalker,Telekinesis,2741,2895,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other
+692,693,Qui-Gon Jinn,Other,3448,3452,Obi-Wan Kenobi,Sense,1163,1164,Obi-Wan Kenobi,Telekinesis,6940,6941,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,4178,4197,Luke Skywalker,Telekinesis,3300,3301,Luke Skywalker,Sense
+695,696,Qui-Gon Jinn,Other,3528,3536,Anakin Skywalker,Sense,1168,1169,Anakin Skywalker,Telekinesis,6945,6946,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,4299,4367,Yoda,Telekinesis,3343,3345,Luke Skywalker,Sense
+930,941,Qui-Gon Jinn,Jedi Mind Trick,3651,3654,Obi-Wan Kenobi,Other,1173,1174,Obi-Wan Kenobi,Force Push,6951,6952,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,4593,4624,Luke Skywalker,Telekinesis,3688,3689,Luke Skywalker,Other
+1200,1203,Obi-Wan Kenobi,Other,3683,3684,Obi-Wan Kenobi,Force Leap,1218,1219,Anakin Skywalker,Force Leap,7024,7027,Luke Skywalker,Sense,4624,4628,Luke Skywalker,Telekinesis|Sense,3690,3691,Luke Skywalker,Other
+1354,1355,Obi-Wan Kenobi|Qui-Gon Jinn,Leap,3703,3705,Obi-Wan Kenobi,Telekinesis,1820,1831,Anakin Skywalker,Sense,7052,7055,Obi-Wan Kenobi|Luke Skywalker,Force Spirit|Other,4628,4629,Luke Skywalker,Telekinesis,4471,4524,Luke Skywalker,Telekinesis
+1356,1357,Obi-Wan Kenobi,Leap,3722,3723,Obi-Wan Kenobi,Force Leap,2128,2130,Obi-Wan Kenobi,Sense,2313,2329,Darth Vader,Force Choke,4666,4670,Yoda,Sense,5109,5111,Luke Skywalker,Sense
+1363,1365,Qui-Gon Jinn,Force Push,3775,3779,Obi-Wan Kenobi,Force Leap,3134,3146,Anakin Skywalker,Sense,4010,4014,Darth Vader,Sense,4986,5100,Obi-Wan Kenobi|Yoda|Luke Skywalker,Force Spirit|Other,6312,6314,Luke Skywalker,Telekinesis
+1419,1421,Qui-Gon Jinn,Sense,3779,3780,Obi-Wan Kenobi,Telekinesis,3439,3441,Obi-Wan Kenobi,Force Leap,4424,4428,Darth Vader,Sense,5100,5115,Obi-Wan Kenobi|Yoda,Force Spirit|Other,6584,6585,Luke Skywalker,Force Leap
+1473,1474,Obi-Wan Kenobi,Force Leap,3798,3799,Obi-Wan Kenobi,Telekinesis,3463,3466,Obi-Wan Kenobi,Telekinesis,4584,4595,Darth Vader,Sense,6259,6260,Luke Skywalker,Force Leap,6586,6587,Luke Skywalker,Force Leap
+1477,1479,Qui-Gon Jinn,Force Push,4671,4672,Anakin Skywalker,Force Leap,3522,3524,Obi-Wan Kenobi,Force Leap,6949,6950,Darth Vader,Sense,6277,6278,Luke Skywalker,Telekinesis,6591,6595,Luke Skywalker,Sense
+1479,1480,Qui-Gon Jinn,Other,4837,4838,Yoda,Sense,3584,3587,Obi-Wan Kenobi,Force Push,,,,,6296,6297,Luke Skywalker,Force Leap,7408,7411,Princess Leia Organa,Sense
+1493,1494,Obi-Wan Kenobi,Other,4838,4843,Yoda|Qui-Gon Jinn,Sense|Force Spirit|Other,3591,3592,Obi-Wan Kenobi,Force Leap,,,,,6700,6705,Luke Skywalker,Sense,7644,7645,Obi-Wan Kenobi|Yoda|Luke Skywalker,Force Spirit|Other
+1799,1800,Qui-Gon Jinn,Sense,4843,4859,Yoda,Sense,3608,3609,Obi-Wan Kenobi,Force Leap,,,,,6811,6827,Luke Skywalker,Telepathy,7645,7663,Obi-Wan Kenobi|Yoda|Anakin Skywalker|Luke Skywalker,Force Spirit|Other
+1800,1801,Obi-Wan Kenobi,Sense,4866,4886,Yoda,Sense,3619,3620,Obi-Wan Kenobi,Force Leap,,,,,6827,6833,Luke Skywalker|Princess Leia Organa,Telepathy,2320,2326,Palpatine,Sense
+2037,2039,Qui-Gon Jinn,Jedi Mind Trick,5322,5326,Yoda,Sense,3676,3681,Mace Windu,Sene,,,,,7068,7073,Luke Skywalker,Telepathy,3340,3358,Darth Vader,Sense
+2041,2043,Qui-Gon Jinn,Jedi Mind Trick,5851,5853,Anakin Skywalker,Force Push,4015,4017,Obi-Wan Kenobi,Telekinesis,,,,,7109,7112,Luke Skywalker,Telepathy,5446,5448,Palpatine,Telekinesis
+2485,2486,Qui-Gon Jinn,Other,5859,5860,Anakin Skywalker,Force Push,4097,4102,Mace Windu,Sense,,,,,1408,1426,Darth Vader,Force Choke,5750,5754,Palpatine,Sense
+3213,3215,Qui-Gon Jinn,Telekinesis,5871,5872,Anakin Skywalker,Force Leap,4622,4629,Yoda,Sense,,,,,4402,4409,Darth Vader,Force Choke,6287,6293,Palpatine,Sense
+4278,4281,Obi-Wan Kenobi,Sense,5911,5913,Anakin Skywalker,Force Leap,4867,4870,Other (Jedi),Other,,,,,5303,5304,Darth Vader,Telekinesis,6521,6523,Darth Vader,Leap
+4638,4639,Qui-Gon Jinn,Force Leap,6018,6023,Anakin Skywalker,Telekinesis,4884,4885,Other (Jedi),Other,,,,,5889,5891,Darth Vader,Force Choke,6614,6615,Darth Vader,Other (saber throw)
+4744,4746,Anakin Skywalker,Other,6024,6027,Anakin Skywalker,Force Leap,4914,4924,Yoda,Sense,,,,,6037,6040,Darth Vader,Sense,6721,6733,Darth Vader,Sense
+5386,5398,Anakin Skywalker,Sense,6353,6355,Anakin Skywalker,Sense,4984,4985,Yoda,Sense,,,,,6236,6238,Darth Vader,Force Leap,6906,6909,Palpatine,Lightning
+5407,5408,Anakin Skywalker,Other,6402,6404,Anakin Skywalker,Force Leap,4986,4987,Yoda,Force Leap,,,,,6256,6258,Darth Vader,Telekinesis,6921,6923,Palpatine,Lightning
+5419,5421,Other (Jedi),Sense,6480,6485,Anakin Skywalker,Other,5004,5007,Other (Jedi),Other,,,,,6359,6366,Darth Vader,Telekinesis,6924,6927,Palpatine,Lightning
+5425,5427,Yoda,Sense,6500,6503,Anakin Skywalker,Other,5084,5085,Other (Youngling),Force Leap,,,,,6373,6375,Darth Vader,Telekinesis,6942,6943,Palpatine,Lightning
+5449,5451,Yoda,Sense,6503,6504,Anakin Skywalker,Force Leap,5092,5095,Other (Youngling),Other,,,,,6378,6380,Darth Vader,Telekinesis,6947,6969,Palpatine,Lightning
+5602,5607,Yoda,Sense,6555,6557,Obi-Wan Kenobi,Force Leap,5612,5615,Obi-Wan Kenobi|Yoda,Other,,,,,6381,6387,Darth Vader,Telekinesis,6985,7022,Palpatine,Lightning
+6398,6399,Obi-Wan Kenobi|Qui-Gon Jinn,Other,6633,6634,Mace Windu,Other,5615,5616,Yoda,Force Push|Other (bd),,,,,7067,7073,Darth Vader,Telepathy,,,,
+6420,6421,Obi-Wan Kenobi,Other,6636,6637,Mace Windu,Force Leap,5617,5618,Yoda,Other,,,,,7106,7112,Darth Vader,Telepathy,,,,
+6421,6422,Qui-Gon Jinn,Other,6637,6639,Mace Windu,Force Leap|Other,5618,5620,Yoda,Force Leap,,,,,,,,,,,,
+6423,6424,Qui-Gon Jinn,Other,6640,6641,Mace Windu,Force Leap,5621,5622,Obi-Wan Kenobi,Other,,,,,,,,,,,,
+6428,6429,Qui-Gon Jinn,Other,6643,6644,Mace Windu,Other,5624,5625,Yoda,Force Leap,,,,,,,,,,,,
+6429,6430,Obi-Wan Kenobi,Other,6650,6653,Other (Jedi),Other,5625,5626,Yoda,Other,,,,,,,,,,,,
+6476,6477,Qui-Gon Jinn,Other,6654,6656,Other (Jedi),Other,6115,6117,Obi-Wan Kenobi,Telekinesis,,,,,,,,,,,,
+6661,6663,Obi-Wan Kenobi,Force Leap,6659,6664,Other (Jedi),Other,6484,6486,Obi-Wan Kenobi,Force Leap,,,,,,,,,,,,
+6753,6755,Obi-Wan Kenobi|Qui-Gon Jinn,Force Leap,6669,6670,Other (Jedi),Other,6489,6490,Yoda,Force Push,,,,,,,,,,,,
+6935,6937,Qui-Gon Jinn,Force Leap,6674,6675,Obi-Wan Kenobi,Other,6593,6596,Yoda,Force Push,,,,,,,,,,,,
+6954,6956,Obi-Wan Kenobi,Force Leap,6675,6676,Obi-Wan Kenobi|Other (Jedi),Other,6607,6608,Yoda,Force Leap,,,,,,,,,,,,
+6995,6999,Qui-Gon Jinn,Other,6676,6677,Anakin Skywalker,Other,6636,6639,Yoda,Force Leap,,,,,,,,,,,,
+7148,7154,Qui-Gon Jinn,Other,6677,6680,Other (Jedi),Other,6642,6643,Yoda,Force Leap,,,,,,,,,,,,
+7299,7301,Obi-Wan Kenobi,Force Leap,6680,6681,Anakin Skywalker,Other,6670,6671,Obi-Wan Kenobi,Telekinesis,,,,,,,,,,,,
+7306,7307,Obi-Wan Kenobi,Force Leap,6682,6684,Other (Jedi),Other,6675,6676,Yoda,Force Leap,,,,,,,,,,,,
+7445,7446,Obi-Wan Kenobi,Telekinesis,6686,6687,Obi-Wan Kenobi,Other,6677,6679,Yoda,Force Leap,,,,,,,,,,,,
+7446,7448,Obi-Wan Kenobi,Telekinesis|Force Leap,6691,6692,Anakin Skywalker|Other (Jedi),Force Leap|Other,6680,6683,Yoda,Force Leap,,,,,,,,,,,,
+7448,7449,Obi-Wan Kenobi,Force Leap,6692,6693,Other (Jedi),Other,6685,6687,Yoda,Force Leap,,,,,,,,,,,,
+7602,7604,Yoda,Sense,6695,6696,Other (Jedi),Other,6688,6690,Yoda,Force Leap,,,,,,,,,,,,
+7615,7617,Yoda,Sense,6696,6700,Anakin Skywalker,Other,6691,6695,Yoda,Force Leap,,,,,,,,,,,,
+4602,4603,Darth Maul,Force Leap,6701,6702,Other (Jedi),Force Leap|Other,6699,6701,Yoda,Force Leap,,,,,,,,,,,,
+4633,4634,Darth Maul,Force Leap,6718,6719,Mace Windu|Other (Jedi),Force Leap|Other,6714,6723,Obi-Wan Kenobi,Force Push,,,,,,,,,,,,
+6722,6723,Darth Maul,Telekinesis,6719,6721,Mace Windu,Force Leap,6753,6754,Yoda,Force Leap,,,,,,,,,,,,
+6730,6732,Darth Maul,Force Leap,6722,6723,Mace Windu,Other,6757,6758,Yoda,Force Leap,,,,,,,,,,,,
+6751,6753,Darth Maul,Force Leap,6724,6728,Mace Windu|Obi-Wan Kenobi,Other,6766,6767,Yoda,Force Leap,,,,,,,,,,,,
+7319,7320,Darth Maul,Force Push,6729,6734,Other (Jedi),Other,6768,6770,Yoda,Force Leap,,,,,,,,,,,,
+,,,,6736,6738,Other (Jedi),Other,6772,6774,Yoda,Force Leap,,,,,,,,,,,,
+,,,,6739,6740,Other (Jedi),Other,6782,6798,Yoda,Telekinesis,,,,,,,,,,,,
+,,,,6744,6745,Mace Windu,Other,6802,6803,Yoda,Force Leap,,,,,,,,,,,,
+,,,,6745,6748,Obi-Wan Kenobi|Mace Windu|Other (Jedi),Other,6806,6824,Yoda,Other,,,,,,,,,,,,
+,,,,6748,6749,Other (Jedi),Force Push|Other,6851,6852,Obi-Wan Kenobi,Force Leap,,,,,,,,,,,,
+,,,,6749,6751,Other (Jedi),Other,6880,6882,Obi-Wan Kenobi,Force Leap,,,,,,,,,,,,
+,,,,6756,6757,Other (Jedi),Other,6988,6990,Yoda,Force Leap,,,,,,,,,,,,
+,,,,6758,6760,Mace Windu,Telekinesis,7044,7046,Obi-Wan Kenobi,Force Leap,,,,,,,,,,,,
+,,,,6764,6765,Other (Jedi),Other,7147,7150,Obi-Wan Kenobi,Force Leap,,,,,,,,,,,,
+,,,,6771,6772,Other (Jedi),Other,716,717,Count Dooku,Force Leap,,,,,,,,,,,,
+,,,,6776,6777,Other (Jedi),Other,760,762,Count Dooku,Force Push,,,,,,,,,,,,
+,,,,6785,6786,Mace Windu,Other,778,783,Count Dooku,Other,,,,,,,,,,,,
+,,,,6786,6787,Mace Windu|Other (Jedi),Other,787,789,Count Dooku,Telekinesis,,,,,,,,,,,,
+,,,,6787,6789,Other (Jedi),Other,793,794,Count Dooku,Force Leap,,,,,,,,,,,,
+,,,,6792,6793,Other (Jedi),Other,802,812,Count Dooku,Sense,,,,,,,,,,,,
+,,,,6801,6806,Other (Jedi),Other,3877,3886,Palpatine,Sense,,,,,,,,,,,,
+,,,,6809,6812,Other (Jedi),Other,4150,4159,Palpatine,Telepathy,,,,,,,,,,,,
+,,,,6814,6819,Other (Jedi),Other,4273,4274,Palpatine,Telekinesis,,,,,,,,,,,,
+,,,,6819,6821,Other (Jedi),Force Push|Other,4280,4281,Palpatine,Force Leap,,,,,,,,,,,,
+,,,,6821,6824,Other (Jedi),Other,4339,4341,Palpatine,Force Leap,,,,,,,,,,,,
+,,,,6824,6825,Other (Jedi),Force leap|Other,4398,4438,Palpatine,Force Lightning,,,,,,,,,,,,
+,,,,6828,6829,Anakin Skywalker|Other (Jedi),Other,4481,4500,Palpatine,Force Lightning,,,,,,,,,,,,
+,,,,6829,6831,Other (Jedi),Other,4583,4595,Palpatine,Sense,,,,,,,,,,,,
+,,,,6831,6712,Other (Jedi),Force Push,5604,5609,Darth Vader,Telekinesis,,,,,,,,,,,,
+,,,,6832,6833,Other (Jedi),Other,5728,5729,Darth Vader,Other,,,,,,,,,,,,
+,,,,6833,6836,Anakin Skywalker|Other (Jedi),Other,5773,5774,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6836,6839,Other (Jedi),Other,6368,6379,Darth Vader,Force Choke,,,,,,,,,,,,
+,,,,6839,6840,Anakin Skywalker,Other,6465,6467,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6848,6850,Obi-Wan Kenobi,Other,6523,6526,Palpatine,Force Lightning,,,,,,,,,,,,
+,,,,6851,6852,Other (Jedi),Other,6606,6608,Palpatine,Force Leap,,,,,,,,,,,,
+,,,,6869,6871,Other (Jedi),Other,6672,6673,Darth Vader,Telekinesis,,,,,,,,,,,,
+,,,,6874,6876,Other (Jedi),Other,6715,6723,Darth Vader,Force Push,,,,,,,,,,,,
+,,,,6878,6881,Other (Jedi),Other,6725,6726,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6883,6884,Other (Jedi),Other,6755,6758,Palpatine,Telekinesis,,,,,,,,,,,,
+,,,,6887,6897,Other (Jedi),Other,6760,6776,Palpatine,Telekinesis,,,,,,,,,,,,
+,,,,6897,6899,Obi-Wan Kenobi,Other,6779,6782,Palpatine,Telekinesis,,,,,,,,,,,,
+,,,,6902,6903,Anakin Skywalker|Other (Jedi),Other,6797,6800,Palpatine,Force Leap,,,,,,,,,,,,
+,,,,6915,6919,Anakin Skywalker|Obi-Wan Kenobi|Mace Windu|Other (Jedi),Other,6804,6824,Palpatine,Force Lightning,,,,,,,,,,,,
+,,,,6984,6985,Anakin Skywalker|Other (Jedi),Other,6856,6858,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6985,6986,Other (Jedi),Other,6883,6884,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6991,6992,Anakin Skywalker|Other (Jedi),Other,6922,6925,Palpatine,Sense,,,,,,,,,,,,
+,,,,6992,6993,Anakin Skywalker|Obi-Wan Kenobi|Mace Windu|Other (Jedi),Other,7064,7066,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6993,6994,Anakin Skywalker|Mace Windu|Other (Jedi),Other,7132,7134,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,6994,6996,Other (Jedi),Other,7165,7169,Darth Vader,Force Leap,,,,,,,,,,,,
+,,,,7001,7003,Mace Windu|Obi-Wan Kenobi,Other,7698,7720,Darth Vader,Other,,,,,,,,,,,,
+,,,,7002,7003,Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7003,7004,Anakin Skywalker|Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7004,7005,Anakin Skywalker,Other,,,,,,,,,,,,,,,,
+,,,,7006,7007,Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7013,7014,Mace Windu|Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7014,7015,Obi-Wan Kenobi|Mace Windu|Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7015,7016,Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7018,7019,Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7023,7024,Obi-Wan Kenobi,Other,,,,,,,,,,,,,,,,
+,,,,7025,7029,Mace Windu|Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7160,7161,Mace Windu,Other,,,,,,,,,,,,,,,,
+,,,,7166,7167,Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7169,7170,Other (Jedi),Other,,,,,,,,,,,,,,,,
+,,,,7449,7455,Yoda,Sense,,,,,,,,,,,,,,,,
+,,,,7588,7589,Anakin Skywalker,Force Leap,,,,,,,,,,,,,,,,
+,,,,7593,7596,Obi-Wan Kenobi,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7674,7677,Yoda,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7681,7684,Yoda,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7695,7699,Yoda,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7704,7707,Yoda,Sense,,,,,,,,,,,,,,,,
+,,,,7713,7717,Yoda,Other,,,,,,,,,,,,,,,,
+,,,,7720,7728,Yoda,Other,,,,,,,,,,,,,,,,
+,,,,7746,7747,Yoda,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7752,7754,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7755,7756,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7757,7758,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7759,7760,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7762,7763,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7767,7769,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7770,7772,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7774,7778,Yoda,Force Leap,,,,,,,,,,,,,,,,
+,,,,7794,7816,Yoda,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7853,7854,Yoda,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7976,7977,Obi-Wan Kenobi,Sense,,,,,,,,,,,,,,,,
+,,,,7495,7499,Count Dooku,Force Lightning,,,,,,,,,,,,,,,,
+,,,,7509,7512,Count Dooku,Force Lightning,,,,,,,,,,,,,,,,
+,,,,7640,7641,Count Dooku,Force Push,,,,,,,,,,,,,,,,
+,,,,7670,7676,Count Dooku,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7678,7681,Count Dooku,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7689,7695,Count Dooku,Telekinesis,,,,,,,,,,,,,,,,
+,,,,7712,7713,Count Dooku,Force Lightning,,,,,,,,,,,,,,,,
+,,,,7716,7718,Count Dooku,Other,,,,,,,,,,,,,,,,
+,,,,7719,7724,Count Dooku,Force Lightning,,,,,,,,,,,,,,,,
+,,,,7750,7753,Count Dooku,Force Leap,,,,,,,,,,,,,,,,
+,,,,7789,7793,Count Dooku,Telekinesis,,,,,,,,,,,,,,,,
