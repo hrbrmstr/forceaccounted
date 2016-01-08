@@ -16,7 +16,7 @@ R pkg for <http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/
 - `strong_with_which_one()`:	strong with which one
 - `timeline	timeline data()`:
 
-```{r}
+```{r fig.retina=2}
 library(forceaccounted)
 good_vs_evil()
 strong_with_which_one()

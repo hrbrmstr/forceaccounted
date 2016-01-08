@@ -64,7 +64,7 @@ good_vs_evil <- function() {
                        color="white", hjust=0.5, family="Helvetica", size=6, fontface="bold")
   gg <- gg + geom_text(aes(x="ep0", y=0, label="Episode"),
                        color="white", hjust=0.5, family="Helvetica", size=6, fontface="bold")
-  gg <- gg + scale_x_discrete(expand=c(0,0.1), drop=FALSE)
+  gg <- gg + scale_x_discrete(expand=c(0,0.2), drop=FALSE)
   gg <- gg + scale_y_continuous(expand=c(0,0), limits=c(-600, 600))
   gg <- gg + coord_flip()
   gg <- gg + labs(x=NULL, y=NULL, title="Good vs. Evil\n")

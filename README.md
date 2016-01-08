@@ -15,10 +15,10 @@ library(forceaccounted)
 good_vs_evil()
 ```
 
-![](README_files/figure-html/unnamed-chunk-1-1.png) 
+<img src="README_files/figure-html/unnamed-chunk-1-1.png" title="" alt="" width="672" />
 
 ```r
 strong_with_which_one()
 ```
 
-![](README_files/figure-html/unnamed-chunk-1-2.png) 
+<img src="README_files/figure-html/unnamed-chunk-1-2.png" title="" alt="" width="672" />
