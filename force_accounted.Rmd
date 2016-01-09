@@ -41,7 +41,7 @@ good_vs_evil()
 ```
 </div>
 
-I was not about to deal with raster images and just leaned on ggplot2's strengths at core visualizations here (and they kinda look like light sabar bars if you squint). You can learn how to do colored bar label annotations by looking at this example.
+I was not about to deal with raster images and just leaned on ggplot2's strengths at core visualizations here (and they kinda look like light saber bars if you squint). You can learn how to do colored bar label annotations by looking at this example.
 
 <div style="background:black">
 ```{r fig.retina=2, fig.width=10, echo=FALSE}
