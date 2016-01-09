@@ -19,5 +19,6 @@ Imports:
     ggthemes,
     dplyr,
     tidyr,
-    gridExtra
+    gridExtra,
+    stringr
 RoxygenNote: 5.0.1

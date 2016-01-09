@@ -16,6 +16,8 @@ R pkg for <http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/
 - `strong_with_which_one()`:	strong with which one
 - `timeline	timeline data()`:
 
+Go [here](http://rud.is/projects/force_accounted.html) for a much nicer version of the stuff below.
+
 ```{r fig.retina=2}
 library(forceaccounted)
 ```
@@ -45,8 +47,28 @@ applied_force()
 ```
 
 <div style="background:black">
-<h1 style="color:white; padding:5px">Applied Force</h3>
+<h1 style="color:white; padding:5px">Applied Force</h1>
 ```{r fig.retina=2, fig.width=10, fig.height=14, echo=FALSE}
 applied_force()
+```
+</div>
+
+```{r echo=TRUE, eval=FALSE}
+be_mentioned()
+```
+
+<div style="background:black">
+```{r fig.retina=2, fig.width=10, fig.height=10, echo=FALSE}
+be_mentioned()
+```
+</div>
+
+```{r echo=TRUE, eval=FALSE}
+ebb_and_flow()
+```
+
+<div style="background:black">
+```{r fig.retina=2, fig.width=10, fig.height=6, echo=FALSE}
+ebb_and_flow()
 ```
 </div>

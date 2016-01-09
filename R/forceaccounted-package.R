@@ -8,4 +8,5 @@
 #' @import ggplot2 ggthemes dplyr
 #' @importFrom tidyr gather
 #' @importFrom gridExtra marrangeGrob
+#' @importFrom stringr str_split
 NULL
