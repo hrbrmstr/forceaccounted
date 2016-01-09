@@ -24,17 +24,21 @@ library(forceaccounted)
 good_vs_evil()
 ```
 
-```{r fig.retina=2, fig.width=10, fig.height=14, echo=FALSE}
+<div style="background:black">
+```{r fig.retina=2, fig.width=10, echo=FALSE}
 good_vs_evil()
 ```
+</div>
 
 ```{r eval=FALSE, echo=TRUE}
 strong_with_which_one()
 ```
 
-```{r fig.retina=2, fig.width=10, fig.height=14, echo=FALSE}
+<div style="background:black">
+```{r fig.retina=2, fig.width=10, echo=FALSE}
 strong_with_which_one()
 ```
+</div>
 
 ```{r echo=TRUE, eval=FALSE}
 applied_force()

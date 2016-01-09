@@ -19,14 +19,18 @@ library(forceaccounted)
 good_vs_evil()
 ```
 
+<div style="background:black">
 <img src="README_files/figure-html/unnamed-chunk-3-1.png" title="" alt="" width="960" />
+</div>
 
 
 ```r
 strong_with_which_one()
 ```
 
+<div style="background:black">
 <img src="README_files/figure-html/unnamed-chunk-5-1.png" title="" alt="" width="960" />
+</div>
 
 
 ```r
