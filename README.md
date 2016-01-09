@@ -12,13 +12,28 @@ R pkg for <http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/
 
 ```r
 library(forceaccounted)
+```
+
+
+```r
 good_vs_evil()
 ```
 
-<img src="README_files/figure-html/unnamed-chunk-1-1.png" title="" alt="" width="672" />
+<img src="README_files/figure-html/unnamed-chunk-3-1.png" title="" alt="" width="960" />
+
 
 ```r
 strong_with_which_one()
 ```
 
-<img src="README_files/figure-html/unnamed-chunk-1-2.png" title="" alt="" width="672" />
+<img src="README_files/figure-html/unnamed-chunk-5-1.png" title="" alt="" width="960" />
+
+
+```r
+applied_force()
+```
+
+<div style="background:black">
+<h1 style="color:white; padding:5px">Applied Force</h3>
+<img src="README_files/figure-html/unnamed-chunk-7-1.png" title="" alt="" width="960" />
+</div>

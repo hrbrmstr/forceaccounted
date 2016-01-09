@@ -6,4 +6,6 @@
 #' @docType package
 #' @author Bob Rudis (@@hrbrmstr)
 #' @import ggplot2 ggthemes dplyr
+#' @importFrom tidyr gather
+#' @importFrom gridExtra marrangeGrob
 NULL

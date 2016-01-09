@@ -18,6 +18,31 @@ R pkg for <http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/
 
 ```{r fig.retina=2}
 library(forceaccounted)
+```
+
+```{r eval=FALSE, echo=TRUE}
 good_vs_evil()
+```
+
+```{r fig.retina=2, fig.width=10, fig.height=14, echo=FALSE}
+good_vs_evil()
+```
+
+```{r eval=FALSE, echo=TRUE}
 strong_with_which_one()
 ```
+
+```{r fig.retina=2, fig.width=10, fig.height=14, echo=FALSE}
+strong_with_which_one()
+```
+
+```{r echo=TRUE, eval=FALSE}
+applied_force()
+```
+
+<div style="background:black">
+<h1 style="color:white; padding:5px">Applied Force</h3>
+```{r fig.retina=2, fig.width=10, fig.height=14, echo=FALSE}
+applied_force()
+```
+</div>
