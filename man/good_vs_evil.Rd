@@ -9,4 +9,3 @@ good_vs_evil()
 \description{
 good vs evil
 }
-

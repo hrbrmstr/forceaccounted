@@ -3,6 +3,7 @@ title: ""
 output:
   html_document:
     keep_md: true
+    self_contained: false
   md_document:
     variant: markdown_github
 ---
@@ -18,8 +19,9 @@ a {
 div { padding-top:30px; padding-bottom:30px; }
 </style>
 
-```{r echo=FALSE}
+```{r echo=FALSE, message=FALSE, include=FALSE, warning=FALSE}
 library(forceaccounted)
+library(tidyverse)
 ```
 
 <center><img style="max-width:100%" src="title.svg"/></center>

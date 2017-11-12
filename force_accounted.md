@@ -1,4 +1,12 @@
-# 
+---
+title: ""
+output:
+  html_document:
+    keep_md: true
+    self_contained: false
+  md_document:
+    variant: markdown_github
+---
 <style>
 html, body, div, h1, h2, h3 {
   background:black; 
@@ -27,32 +35,32 @@ It turns out this is a pretty decent data munging and ggplot2 wrangling exercise
 I didn't cheat and use widgets or a separate HTML+SVG combo this time. Everything is ggplot2. That also puts limitations (yes, ggplot2 has limits) on what we can do. So I've ggplot2-ized the emulated visualizations, starting with _"Good vs. Evil"_. There are some neat tricks here to get space for the *"Light | Episode | Dark"* label line and a custom label function to convert the time. While I could have spent time allowing for a space in the middle, it was easier to just put the episode numbers at `0` (and it looks kinda cool IMO).
 
 <div style="background:black">
-<img src="force_accounted_files/figure-html/unnamed-chunk-2-1.png" title="" alt="" width="960" />
+<img src="force_accounted_files/figure-html/unnamed-chunk-2-1.png" width="960" />
 </div>
 
-I was not about to deal with raster images and just leaned on ggplot2's strengths at core visualizations here (and they kinda look like light sabar bars if you squint). You can learn how to do colored bar label annotations by looking at this example.
+I was not about to deal with raster images and just leaned on ggplot2's strengths at core visualizations here (and they kinda look like light saber bars if you squint). You can learn how to do colored bar label annotations by looking at this example.
 
 <div style="background:black">
-<img src="force_accounted_files/figure-html/unnamed-chunk-3-1.png" title="" alt="" width="960" />
+<img src="force_accounted_files/figure-html/unnamed-chunk-3-1.png" width="960" />
 </div>
 
 I'm kinda proud of this one. This is some pretty complex use of facets, color/fill aesthetics and arranging the grobs. Again, no images since they're kind of a pain to use with the precision necessary. I _almost_ created a font from the images but I really had real stuff to do this weekend.
 
 <div style="background:black">
 <h1 style="color:white; padding:5px">Applied Force</h1>
-<img src="force_accounted_files/figure-html/unnamed-chunk-4-1.png" title="" alt="" width="960" />
+<img src="force_accounted_files/figure-html/unnamed-chunk-4-1.png" width="960" />
 </div>
 
 Many of the Bloomberg visualizations rely heavily on interactive effects and _"May the Force Be Mentioned"_ also had images. I went with a static plot, sizing, coloring & labeling circles accordingly. Some more "fancy" facet work here for those inclined to poke at the code.
 
 <div style="background:black">
-<img src="force_accounted_files/figure-html/unnamed-chunk-5-1.png" title="" alt="" width="960" />
+<img src="force_accounted_files/figure-html/unnamed-chunk-5-1.png" width="960" />
 </div>
 
 This ended up being an exercise more in data wrangling than anything else, but it came out pretty well, despite the lack of interactivity.
 
 <div style="background:black">
-<img src="force_accounted_files/figure-html/unnamed-chunk-6-1.png" title="" alt="" width="960" />
+<img src="force_accounted_files/figure-html/unnamed-chunk-6-1.png" width="960" />
 </div>
 
 You can find all this [on github](https://github.com/hrbrmstr/forceaccounted), and may the FoRce be with you!

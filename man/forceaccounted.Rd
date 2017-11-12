@@ -11,4 +11,3 @@
 \author{
 Bob Rudis (@hrbrmstr)
 }
-

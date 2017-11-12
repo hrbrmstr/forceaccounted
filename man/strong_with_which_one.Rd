@@ -9,4 +9,3 @@ strong_with_which_one()
 \description{
 strong with which one
 }
-

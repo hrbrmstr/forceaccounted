@@ -36,6 +36,7 @@ be_mentioned <- function() {
   gg <- gg + labs(x=NULL, y=NULL, title="May the Force Be Mentioned\n")
   gg <- gg + theme_tufte(base_family="Helvetica")
   gg <- gg + theme(axis.text.x=element_blank())
+  gg <- gg + theme(axis.text.y=element_blank())
   gg <- gg + theme(axis.ticks=element_blank())
   gg <- gg + theme(legend.position="none")
   gg <- gg + theme(strip.text=element_text(color="white", hjust=0, size=10))

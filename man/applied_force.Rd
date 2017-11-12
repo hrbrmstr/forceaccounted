@@ -9,4 +9,3 @@ applied_force()
 \description{
 applied force
 }
-

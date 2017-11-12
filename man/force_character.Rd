@@ -9,4 +9,3 @@ force_character()
 \description{
 force/character data
 }
-

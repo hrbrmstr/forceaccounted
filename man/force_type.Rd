@@ -9,4 +9,3 @@ force_type()
 \description{
 force/type data
 }
-

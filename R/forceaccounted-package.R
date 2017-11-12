@@ -7,6 +7,8 @@
 #' @author Bob Rudis (@@hrbrmstr)
 #' @import ggplot2 ggthemes dplyr
 #' @importFrom tidyr gather
-#' @importFrom gridExtra marrangeGrob
+#' @importFrom gridExtra marrangeGrob arrangeGrob
+#' @importFrom ggthemes theme_tufte
+#' @importFrom dplyr mutate select filter count
 #' @importFrom stringr str_split
 NULL
